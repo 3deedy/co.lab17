@@ -1,6 +1,4 @@
-# co.lab17
-
-# Continuing lab 16, add a Users table to your database
+# Lab 17: Add a Users table to your database
 
   • Each user should have an id, email, and name
   
